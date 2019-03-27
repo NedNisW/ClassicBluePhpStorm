@@ -1,10 +1,10 @@
-<scheme name="Conzept16" version="142" parent_scheme="Default">
+<scheme name="ClassicBlue" version="142" parent_scheme="Default">
   <metaInfo>
     <property name="created">2019-03-27T09:24:29</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.1.0.0</property>
     <property name="modified">2019-03-27T09:24:55</property>
-    <property name="originalScheme">Conzept16</property>
+    <property name="originalScheme">ClassicBlue</property>
   </metaInfo>
   <colors>
     <option name="CARET_COLOR" value="f9fa06" />
