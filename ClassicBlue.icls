@@ -1,9 +1,9 @@
 <scheme name="ClassicBlue" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2019-03-27T09:24:29</property>
+    <property name="created">2019-03-27T09:41:12</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.1.0.0</property>
-    <property name="modified">2019-03-27T09:24:55</property>
+    <property name="modified">2019-03-27T09:41:21</property>
     <property name="originalScheme">ClassicBlue</property>
   </metaInfo>
   <colors>
@@ -16,6 +16,12 @@
       <value>
         <option name="FOREGROUND" value="585858" />
         <option name="BACKGROUND" value="3c3f41" />
+      </value>
+    </option>
+    <option name="BREAKPOINT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="77b590" />
+        <option name="ERROR_STRIPE_COLOR" value="ffc8c8" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT">
@@ -116,6 +122,13 @@
       <value>
         <option name="FOREGROUND" value="fffb01" />
         <option name="BACKGROUND" value="572" />
+      </value>
+    </option>
+    <option name="WARNING_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="f64600" />
+        <option name="ERROR_STRIPE_COLOR" value="ebc700" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
   </attributes>
